@@ -2,7 +2,7 @@
 
 **EYRA** is an intelligent, low-latency, neckband-based voice assistant designed to empower visually impaired individuals. It provides real-time navigation, context-aware AI conversations, and emotional assistance by integrating technologies such as Google Maps, ElevenLabs, Gemini AI, and Bluetooth-based Flutter communication.
 
-Developed as a wearable neckband device, Vizhi AI enables instantaneous guidance, emotional companionship, and accessible mobility through ethical AI.
+Developed as a wearable neckband device, EYRA enables instantaneous guidance, emotional companionship, and accessible mobility through ethical AI.
 
 ---
 
@@ -89,7 +89,7 @@ https://drive.google.com/drive/folders/1nCP42M419DTCHxmQuHwVLqJrhBRMN18e?usp=sha
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python gemini.py(run this and flutter app in terminal first gemini backend then flutter app so that it get ocnnected via socket)
 cd flutter_app
 flutter pub get
 flutter run

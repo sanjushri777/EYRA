@@ -1,0 +1,7 @@
+speechrecognition
+pygame
+google-generativeai
+googlemaps
+geopy
+elevenlabs
+pyaudio
